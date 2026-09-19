@@ -1,0 +1,8 @@
+{
+  "name": "MediIntel Health Record Platform",
+  "description": "Secure healthcare medical record and document intelligence platform featuring AI extraction with negation detection, month-wise longitudinal history graphs, strict role-based access control, and audit trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
